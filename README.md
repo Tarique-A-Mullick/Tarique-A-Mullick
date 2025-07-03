@@ -69,4 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Tarique-A-Mullick&icon=
+  <img src="https://visitcount.itsvg.in/api?id=Tarique-A-Mullick&icon=0&color=0" />
+</p><!-- Created using GPT & GPRM https://gprm.itsvg.in -->
