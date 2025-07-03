@@ -3,7 +3,7 @@
 ---
 
 <img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-###💫 About Me
+💫 About Me
 
 🚀 Currently Building:<br>Innovative projects blending AI, blockchain, and accessibility to create real-world solutions.
 
@@ -23,13 +23,14 @@
 
 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://discord.gg/tariqueanowarmullick"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://facebook.com/share/1CGSFmhftj/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://instagram.com/ramij_rj_?igsh=eXN2cjZxeHJsam5q"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.linkedin.com/in/tarique-anowar-mullick-b45208370"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ramijrjmullick@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<p align="left">
+  <a href="https://discord.gg/tariqueanowarmullick"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/share/1CGSFmhftj/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/ramij_rj_?igsh=eXN2cjZxeHJsam5q"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarique-anowar-mullick-b45208370"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ramijrjmullick@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 ---
 
 💻 Tech Stack
