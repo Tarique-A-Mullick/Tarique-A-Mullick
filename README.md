@@ -1,6 +1,6 @@
 <!-- Profile README for Tarique Anowar Mullick --><h1 align="center">Hey there, I'm Tarique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> (aka Ramij RJ)</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Creative+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Creative+Coder" />
 </h3>
 
 ---
