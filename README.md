@@ -2,7 +2,8 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Creative+Coder" /></h3>
 ---
 
-<img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />💫 About Me
+<img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+###💫 About Me
 
 🚀 Currently Building:<br>Innovative projects blending AI, blockchain, and accessibility to create real-world solutions.
 
