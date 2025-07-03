@@ -24,7 +24,10 @@
 
 <p align="center">
   <a href="https://discord.gg/tariqueanowarmullick"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://facebook.com/share/1CGSFmhftj/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://facebook.com/share/1CGSFmhftj/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
   <a href="https://instagram.com/ramij_rj_?igsh=eXN2cjZxeHJsam5q"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/tarique-anowar-mullick-b45208370"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ramijrjmullick@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
